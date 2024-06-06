@@ -1,0 +1,324 @@
+{
+    "MCD": {
+        "chat_gpt": "McDonald's, a global fast-food chain, will see increased sales and brand visibility.",
+        "claude": "McDonald's, as a major Olympic sponsor and global fast-food chain, could benefit from increased brand exposure and sales during the event, particularly in host cities.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "SONY": {
+        "chat_gpt": "Sony, through its broadcasting equipment and media presence, will benefit from the event.",
+        "claude": "Sony's electronics division could benefit from increased demand for high-definition televisions and sound systems as consumers upgrade their home entertainment setups to watch the Olympics.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "BUD": {
+        "chat_gpt": "Anheuser-Busch InBev, a major beer sponsor, will see increased sales and brand recognition.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "AMZN": {
+        "chat_gpt": "Amazon, through its advertising and e-commerce platform, will see increased sales and visibility.",
+        "claude": "Amazon's advertising business could benefit from increased ad spending by companies looking to capitalize on the Olympics buzz, and its streaming platform, Prime Video, might see increased viewership if it secures broadcasting rights.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "SBUX": {
+        "chat_gpt": "Starbucks may see increased sales from heightened brand visibility and global presence during the Olympics.",
+        "claude": "Starbucks, as a global food and beverage chain, could see increased foot traffic and sales in its stores located near Olympic venues or in host cities.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "AAPL": {
+        "chat_gpt": "Apple, with its global presence and advertising, will see increased brand visibility and sales.",
+        "claude": "Apple's products, such as iPhones and Apple Watches, may be used by athletes and fans to stream Olympic content, track performance, and stay connected, potentially boosting sales and app store revenue.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "NKE": {
+        "chat_gpt": "Nike is a major sponsor of the Olympics and will benefit from increased brand visibility and sales.",
+        "claude": "Nike sponsors many top Olympic athletes and national teams, potentially benefiting from increased brand exposure and sales of athletic apparel and footwear.",
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/TheLongInvest/status/1771134090239983848",
+                "text": "Olympics 2024 starts on the 26th of July\n\nWhich companies will benefit from this global exposure?\n\n$ABNB\n$BABA\n$KO\n$INTC\n$V\n\nSome of the main sponsors\n\nAlso, sports clothing:\n\n$NKE\n$ONON\n$LULU\n$SKX https://t.co/BeByM9BInp",
+                "username": "TheLongInvest",
+                "user_url": "https://twitter.com/TheLongInvest",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1581661163854741511/iHMeL5Px_normal.jpg",
+                "date": "2024-03-22T11:17:27Z"
+            }
+        ],
+        "experts": []
+    },
+    "CMCSA": {
+        "chat_gpt": "Comcast, through NBCUniversal, holds broadcasting rights in the U.S., benefiting from advertising revenue and viewership.",
+        "claude": "Comcast owns NBCUniversal, which has the broadcasting rights for the Olympics in the US, potentially leading to increased ad revenue and subscriber growth for its media and cable businesses.",
+        "search_articles": [
+            {
+                "url": "https://www.nasdaq.com/articles/3-stocks-smart-investors-are-buying-now-before-the-2024-summer-olympics",
+                "title": "3 Stocks Smart Investors Are Buying Now BEFORE ...",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "DIS": {
+        "chat_gpt": "Disney, through ESPN, will benefit from increased sports coverage and advertising revenue.",
+        "claude": "Disney owns the ABC television network, which will likely broadcast the Olympics, potentially benefiting from increased viewership and ad revenue.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "KO": {
+        "chat_gpt": "Coca-Cola is a long-time Olympic sponsor and will see a boost in global brand recognition and sales.",
+        "claude": "Coca-Cola, a long-time Olympic sponsor, could see a boost in brand recognition and sales of its beverages during the event, as well as increased exposure through its advertising campaigns.",
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/TheLongInvest/status/1771134090239983848",
+                "text": "Olympics 2024 starts on the 26th of July\n\nWhich companies will benefit from this global exposure?\n\n$ABNB\n$BABA\n$KO\n$INTC\n$V\n\nSome of the main sponsors\n\nAlso, sports clothing:\n\n$NKE\n$ONON\n$LULU\n$SKX https://t.co/BeByM9BInp",
+                "username": "TheLongInvest",
+                "user_url": "https://twitter.com/TheLongInvest",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1581661163854741511/iHMeL5Px_normal.jpg",
+                "date": "2024-03-22T11:17:27Z"
+            }
+        ],
+        "experts": []
+    },
+    "HMC": {
+        "chat_gpt": "Honda, as a global brand, will benefit from increased advertising and sales during the Olympics.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "PEP": {
+        "chat_gpt": "PepsiCo, a competitor to Coca-Cola, will also benefit from increased advertising and sales.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "T": {
+        "chat_gpt": "AT&T, as a telecommunications provider, will benefit from increased data usage and advertising.",
+        "claude": "AT&T's media division, WarnerMedia, might secure broadcasting rights in certain regions, potentially boosting viewership and ad revenue for its channels and streaming platforms.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "TM": {
+        "chat_gpt": "Toyota, a major sponsor, will benefit from increased brand visibility and sales.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "UL": {
+        "chat_gpt": "Unilever, with its wide range of consumer products, will benefit from increased advertising and sales.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "GOOGL": {
+        "chat_gpt": "Alphabet, through Google and YouTube, will benefit from increased advertising revenue and viewership.",
+        "claude": "Google's advertising business, particularly on YouTube, could see a boost as companies allocate more ad dollars to reach audiences interested in Olympic content.",
+        "search_articles": [
+            {
+                "url": "https://www.nasdaq.com/articles/3-stocks-smart-investors-are-buying-now-before-the-2024-summer-olympics",
+                "title": "3 Stocks Smart Investors Are Buying Now BEFORE ...",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "ABNB": {
+        "chat_gpt": null,
+        "claude": "Airbnb could see increased bookings in host cities and surrounding areas as fans and athletes look for accommodations during the Olympics.",
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/TheLongInvest/status/1771134090239983848",
+                "text": "Olympics 2024 starts on the 26th of July\n\nWhich companies will benefit from this global exposure?\n\n$ABNB\n$BABA\n$KO\n$INTC\n$V\n\nSome of the main sponsors\n\nAlso, sports clothing:\n\n$NKE\n$ONON\n$LULU\n$SKX https://t.co/BeByM9BInp",
+                "username": "TheLongInvest",
+                "user_url": "https://twitter.com/TheLongInvest",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1581661163854741511/iHMeL5Px_normal.jpg",
+                "date": "2024-03-22T11:17:27Z"
+            }
+        ],
+        "experts": []
+    },
+    "BABA": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/TheLongInvest/status/1771134090239983848",
+                "text": "Olympics 2024 starts on the 26th of July\n\nWhich companies will benefit from this global exposure?\n\n$ABNB\n$BABA\n$KO\n$INTC\n$V\n\nSome of the main sponsors\n\nAlso, sports clothing:\n\n$NKE\n$ONON\n$LULU\n$SKX https://t.co/BeByM9BInp",
+                "username": "TheLongInvest",
+                "user_url": "https://twitter.com/TheLongInvest",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1581661163854741511/iHMeL5Px_normal.jpg",
+                "date": "2024-03-22T11:17:27Z"
+            }
+        ],
+        "experts": []
+    },
+    "LULU": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/TheLongInvest/status/1771134090239983848",
+                "text": "Olympics 2024 starts on the 26th of July\n\nWhich companies will benefit from this global exposure?\n\n$ABNB\n$BABA\n$KO\n$INTC\n$V\n\nSome of the main sponsors\n\nAlso, sports clothing:\n\n$NKE\n$ONON\n$LULU\n$SKX https://t.co/BeByM9BInp",
+                "username": "TheLongInvest",
+                "user_url": "https://twitter.com/TheLongInvest",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1581661163854741511/iHMeL5Px_normal.jpg",
+                "date": "2024-03-22T11:17:27Z"
+            },
+            {
+                "url": "https://twitter.com/CSIMarket/status/1780477309423845806",
+                "text": "Lululemon Unveils Team Canada Summer Athlete Kit for the Paris 2024 Olympic and Paralympic Games: $LULU VANCOUVER, British Columbia - Lululemon (NASDAQ:LULU) has recently collaborated with the\u2026 https://t.co/l0DhA7wOcj #ApparelFootwearandAccessories #LULU #Contract #suppliers",
+                "username": "CSIMarket",
+                "user_url": "https://twitter.com/CSIMarket",
+                "user_image_url": "https://pbs.twimg.com/profile_images/844506254978502657/yPjreNts_normal.jpg",
+                "date": "2024-04-17T06:04:04Z"
+            }
+        ],
+        "experts": []
+    },
+    "ONON": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/TheLongInvest/status/1771134090239983848",
+                "text": "Olympics 2024 starts on the 26th of July\n\nWhich companies will benefit from this global exposure?\n\n$ABNB\n$BABA\n$KO\n$INTC\n$V\n\nSome of the main sponsors\n\nAlso, sports clothing:\n\n$NKE\n$ONON\n$LULU\n$SKX https://t.co/BeByM9BInp",
+                "username": "TheLongInvest",
+                "user_url": "https://twitter.com/TheLongInvest",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1581661163854741511/iHMeL5Px_normal.jpg",
+                "date": "2024-03-22T11:17:27Z"
+            }
+        ],
+        "experts": []
+    },
+    "SKX": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/TheLongInvest/status/1771134090239983848",
+                "text": "Olympics 2024 starts on the 26th of July\n\nWhich companies will benefit from this global exposure?\n\n$ABNB\n$BABA\n$KO\n$INTC\n$V\n\nSome of the main sponsors\n\nAlso, sports clothing:\n\n$NKE\n$ONON\n$LULU\n$SKX https://t.co/BeByM9BInp",
+                "username": "TheLongInvest",
+                "user_url": "https://twitter.com/TheLongInvest",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1581661163854741511/iHMeL5Px_normal.jpg",
+                "date": "2024-03-22T11:17:27Z"
+            }
+        ],
+        "experts": []
+    },
+    "V": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/TheLongInvest/status/1771134090239983848",
+                "text": "Olympics 2024 starts on the 26th of July\n\nWhich companies will benefit from this global exposure?\n\n$ABNB\n$BABA\n$KO\n$INTC\n$V\n\nSome of the main sponsors\n\nAlso, sports clothing:\n\n$NKE\n$ONON\n$LULU\n$SKX https://t.co/BeByM9BInp",
+                "username": "TheLongInvest",
+                "user_url": "https://twitter.com/TheLongInvest",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1581661163854741511/iHMeL5Px_normal.jpg",
+                "date": "2024-03-22T11:17:27Z"
+            }
+        ],
+        "experts": []
+    },
+    "AC": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "CRM": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "CSCO": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "DXC": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "TTD": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.nasdaq.com/articles/3-stocks-smart-investors-are-buying-now-before-the-2024-summer-olympics",
+                "title": "3 Stocks Smart Investors Are Buying Now BEFORE ...",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "ROKU": {
+        "chat_gpt": null,
+        "claude": "Roku's streaming devices and platform could see increased adoption and engagement as viewers look for ways to watch Olympic content on their TVs.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "EXPE": {
+        "chat_gpt": null,
+        "claude": "Expedia Group's travel booking platforms, such as Expedia and Hotels.com, could see increased traffic and bookings as fans plan trips to attend the Olympics or visit host cities.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "UBER": {
+        "chat_gpt": null,
+        "claude": "Uber could see increased demand for its ride-hailing and food delivery services in host cities during the Olympics as fans and athletes navigate between venues and seek convenient transportation and dining options.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "MAR": {
+        "chat_gpt": null,
+        "claude": "Marriott International, as a global hotel chain, could benefit from increased bookings in host cities and nearby locations as fans, athletes, and media members seek accommodations during the Olympics.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "MA": {
+        "chat_gpt": null,
+        "claude": "Mastercard, like Visa, could see increased transaction volumes and brand exposure during the Olympics, especially if it secures sponsorship deals or partnerships related to the event.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    }
+}
