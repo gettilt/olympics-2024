@@ -60,7 +60,6 @@ with open('theme.csv') as file:
 | BUD | Anheuser-Busch InBev, a major beer sponsor, will see increased sales and brand recognition. | chat_gpt |
 | AMZN | Amazon, through its advertising and e-commerce platform, will see increased sales and visibility. | chat_gpt,claude |
 | SBUX | Starbucks may see increased sales from heightened brand visibility and global presence during the Olympics. | chat_gpt,claude |
-| AAPL | Apple, with its global presence and advertising, will see increased brand visibility and sales. | chat_gpt,claude |
 | NKE | Nike is a major sponsor of the Olympics and will benefit from increased brand visibility and sales. | chat_gpt,twitter,claude |
 | CMCSA | Comcast, through NBCUniversal, holds broadcasting rights in the U.S., benefiting from advertising revenue and viewership. | chat_gpt,google,claude |
 | DIS | Disney, through ESPN, will benefit from increased sports coverage and advertising revenue. | chat_gpt,claude |
@@ -72,13 +71,10 @@ with open('theme.csv') as file:
 | UL | Unilever, with its wide range of consumer products, will benefit from increased advertising and sales. | chat_gpt |
 | GOOGL | Alphabet, through Google and YouTube, will benefit from increased advertising revenue and viewership. | chat_gpt,google,claude |
 | ABNB | Airbnb could see increased bookings in host cities and surrounding areas as fans and athletes look for accommodations during the Olympics. | twitter,claude |
-| BABA |  | twitter |
 | LULU |  | twitter |
 | ONON |  | twitter |
 | SKX |  | twitter |
-| V |  | twitter,google |
 | AC |  | google |
-| CRM |  | google |
 | CSCO |  | google |
 | DXC |  | google |
 | TTD |  | google |
@@ -86,7 +82,6 @@ with open('theme.csv') as file:
 | EXPE | Expedia Group's travel booking platforms, such as Expedia and Hotels.com, could see increased traffic and bookings as fans plan trips to attend the Olympics or visit host cities. | claude |
 | UBER | Uber could see increased demand for its ride-hailing and food delivery services in host cities during the Olympics as fans and athletes navigate between venues and seek convenient transportation and dining options. | claude |
 | MAR | Marriott International, as a global hotel chain, could benefit from increased bookings in host cities and nearby locations as fans, athletes, and media members seek accommodations during the Olympics. | claude |
-| MA | Mastercard, like Visa, could see increased transaction volumes and brand exposure during the Olympics, especially if it secures sponsorship deals or partnerships related to the event. | claude |
 <!--[[[end]]]-->
 
 ## License
